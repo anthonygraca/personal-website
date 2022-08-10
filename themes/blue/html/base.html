@@ -41,7 +41,6 @@
                 <a href="{{nav-page.uri}}">{{nav-page.title}}</a>
                 </li>
                 {% endfor %}
-                <li><a href="{{rss-uri}}">RSS</a></li>
             </ul>
         </div><!--/.nav-collapse -->
     </div><!--/.container-fluid -->
@@ -60,11 +59,10 @@
         </div>
 
         <div class="col-md-3">
-            <div id="sidebar">
+          <div id="sidebar">
+	    <img src="/blog/img/hello-bitmoji.png" width="150" height="150">
                 <h3>Links</h3>
                 <ul id="links">
-                    <li><a href="http://cryogenweb.org/docs/home.html">Cryogen Docs</a></li>
-                    <li><a href="https://carmen.la/blog/archives">Carmen's Blog</a></li>
                     {% for page in sidebar-pages %}
                     <li><a href="{{page.uri}}">{{page.title}}</a></li>
                     {% endfor %}
@@ -89,6 +87,13 @@
                     </ul>
                 </div>
                 {% endif %}
+		<h3>Social Media</h3>
+		<code
+		<nav id="socialmedia">
+                  <a title="LinkedIn" href="https://www.linkedin.com/in/anthonygraca/" rel="external"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" height="30" width="30"></a>
+                  <a title="GitHub" href="https://github.com/anthonygraca" rel="external"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" height="30" width="30"></a>
+                  <a title="Email" href="mailto:anthonygraca@protonmail.com"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" height="30" width="30"></a>
+                </nav>
             </div>
         </div>
     </div>
