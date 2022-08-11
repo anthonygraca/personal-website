@@ -2,31 +2,58 @@
  :layout :page
  :page-index 1}
 
-* Working Effectively with Legacy Code by Feathers
-* C++ Concurrency in Action by Williams
-* Continuous Integration by Duvall
-* Effective C++ by Meyers
-* Software Engineering at Google by Winters
-* Design Patterns by GoF
-* Real-Time Design Patterns by Douglass
-* Designing Data-Intensive Applications by Kleppmann
-* SICP by Abelson and Sussman
-* xUnit Test Patterns by Meszaros
-* System Design Interview by Xu
-* Agile Software Development by Martin
-* Artificial Intelligence: A Modern Approach by Norvig
-* PAIP
-* design of everyday things
-* dont make me think
-* about face
-* CLRS
-* HTDP
+## Software Engineering
+| Title                                                           | Author                 | Progress                            | Review |
+|-----------------------------------------------------------------|------------------------|-------------------------------------|--------|
+| Working Effectively with Legacy Code                            | Feathers, Michael      | ![20%](https://progress-bar.dev/20) |        |
+| Design Patterns                                                 | GoF                    | ![0%](https://progress-bar.dev/0)   |        |
+| Agile Software Development: Principles, Patterns, and Practices | Martin, Robert         | ![30%](https://progress-bar.dev/30) |        |
+| Continuous Integration                                          | Duval, Paul            | ![0%](https://progress-bar.dev/0)   |        |
+| Software Engineering at Google                                  | Winters, Titus, et al. | ![10%](https://progress-bar.dev/10) |        |
+| xUnit Test Patterns                                             | Meszaros, Gerard       | ![0%](https://progress-bar.dev/0)   |        |
 
-- Machine Learning: A Probabilistic Perspective by Kevin Murphy
-- The Elements of Statistical Learning by Jerome Friedman, Robert Tibshirani, & Trevor Hastie
-- Pattern Recognition and Machine Learning - Christopher Bishop
-- Deep Learning - Ian Goodfellow, Yoshua Benigo, & Aaron Courville
-- The Nature Of Statistical Learning Theory - Vladimir Vapnik
-- Information Theory, Inference, and Learning Algorithms - David Mackay
-- Reinforcement Learning - Andrew Barto & Richard Sutton
-- Neural Networks and Deep Learning - Michael Nielsen
+## Programming
+| Title                     | Author                | Progress                            | Review |
+|---------------------------|-----------------------|-------------------------------------|--------|
+| Algorithms                | Sedgewick             | ![90%](https://progress-bar.dev/90) |        |
+| CLRS                      | Cormen, Thomas et al. | ![10%](https://progress-bar.dev/10) |        |
+| C++ Concurrency in Action | Williams, Anthony     | ![15%](https://progress-bar.dev/15) |        |
+| Effective C++             | Meyers, Scott         | ![0%](https://progress-bar.dev/0)   |        |
+
+
+## System Design
+| Title                                | Author            | Progress                          | Review |
+|--------------------------------------|-------------------|-----------------------------------|--------|
+| Designing Data-Intensive Application | Kleppmann, Martin | ![5%](https://progress-bar.dev/5) |        |
+| System Design Interview              | Xu, Alex          | ![0%](https://progress-bar.dev/0) |        |
+
+## Machine Learning
+| Title                                                  | Author                            | Progress                          | Review |
+|--------------------------------------------------------|-----------------------------------|-----------------------------------|--------|
+| Machine learning: A Probabilistic Perspective          | Murphy, Kevin                     | ![0%](https://progress-bar.dev/0) |        |
+| The Elements of Statistical Learning                   | Friedman, Jerome, et al.          | ![0%](https://progress-bar.dev/0) |        |
+| Pattern Recognition and Machine Learning               | Bishop, Christopher               | ![0%](https://progress-bar.dev/0) |        |
+| Deep Learning                                          | Goodfellow, Ian, et al.           | ![0%](https://progress-bar.dev/0) |        |
+| The Nature of Statistical Learning Theory              | Vladimir Vapnik                   | ![0%](https://progress-bar.dev/0) |        |
+| Information Theory, Inference, and Learning Algorithms | Mackay, David                     | ![0%](https://progress-bar.dev/0) |        |
+| Reinforcement Learning                                 | Barto, Andrew, and Richard Sutton | ![0%](https://progress-bar.dev/0) |        |
+| Neural Networks and Deep Learning                      | Nielsen, Michael                  | ![0%](https://progress-bar.dev/0) |        |
+
+## Artificial Intelligence
+| Title                                      | Author                           | Progress                                       | Review |
+|--------------------------------------------|----------------------------------|------------------------------------------------|--------|
+| Artificial Intelligence: A Modern Approach | Russel, Stuart, and Peter Norvig | ![0%](https://progress-bar.dev/0)              |        |
+| PAIP                                       | Norvig, Peter                    | ![0%](https://progress-bar.dev/0) |        |
+
+## LISP
+| Title | Author                                  | Progress                          | Review |
+|-------|-----------------------------------------|-----------------------------------|--------|
+| SICP  | Abelson, Harold, and Gerald Jay Sussman | ![5%](https://progress-bar.dev/5) |        |
+| HtDP  | Felleisen, Matthias, et al.             | ![0%](https://progress-bar.dev/0) |        |
+
+## Human Centered Design
+| Title                     | Author               | Progress                            | Review |
+|---------------------------|----------------------|-------------------------------------|--------|
+| Design of Everyday Things | Norman, Don          | ![15%](https://progress-bar.dev/15) |        |
+| Don't Make Me Think       | Krug, Steve          | ![0%](https://progress-bar.dev/0)   |        |
+| About Face                | Cooper, Alan, et al. | ![0%](https://progress-bar.dev/0)   |        |
