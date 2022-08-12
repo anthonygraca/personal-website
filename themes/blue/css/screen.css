@@ -225,6 +225,11 @@ th {
 	color: #f4f1d0;
 	background-color: #1f2128;
     }
+    
+    .navbar-default .navbar-nav .active:hover a {
+	color: #f4f1d0;
+	background-color: #1f2128;
+    }
 
     .navbar-default .navbar-toggle:hover {
 	background-color: #1f2118;
