@@ -183,3 +183,153 @@ th {
   background-color: #3d80ba;
   color: white;
 }
+
+@media (prefers-color-scheme: dark) {
+    /* https://colorhunt.co/palette/041c3204293a064663ecb365 */
+    body {
+	color: #F4F1CC;
+	background-color: #16171d;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 16px;
+    }
+
+    .navbar {
+	border-radius: 0;
+	box-shadow: 0 0 0 0,0 6px 12px rgba(34,34,34,0.3);
+    }
+
+    .navbar-default {
+	background-color: #1f2128;
+	border: none;
+    }
+
+    .navbar-default .navbar-brand {
+	color: #9ba0b3;
+	font-family: 'Alegreya';
+    }
+
+    .navbar-default .navbar-brand:hover {
+	color: #9ba0b3;
+    }
+
+    .navbar-default .navbar-nav li a {
+	color: #9ba0b3;
+    }
+
+    .navbar-default .navbar-nav li a:hover {
+	color: #f4f1d0;
+	background-color: #1f2128;
+    }
+
+    .navbar-default .navbar-nav .active a {
+	color: #f4f1d0;
+	background-color: #1f2128;
+    }
+
+    .navbar-default .navbar-toggle:hover {
+	background-color: #1f2118;
+    }
+
+    .navbar-default .navbar-toggle .icon-bar {
+	background-color: #1f2128;
+    }
+
+    #sidebar {
+	margin-left: 15px;
+	margin-top: 50px;
+    }
+
+    #content {
+	background-color: #1f2128;
+	border-radius: 3px;
+	box-shadow: 0 0 0 0,0 6px 12px rgba(34,34,34,0.1);
+    }
+
+    #content img {
+	max-width: 100%;
+	height: auto;
+    }
+
+    footer {
+	font-size: 14px;
+	text-align: center;
+	padding-top: 75px;
+	padding-bottom: 30px;
+    }
+
+    blockquote footer {
+	text-align: left;
+	padding-top: 0px;
+	padding-bottom: 0px;
+    }
+
+    #post-tags {
+	margin-top: 30px;
+    }
+
+    #prev-next {
+	padding: 15px 0;
+    }
+
+    .post-header {
+	margin-bottom: 20px;
+    }
+    .post-header h2 {
+	font-size: 32px;
+    }
+
+    #post-meta {
+	font-size: 14px;
+	color: rgba(244,241,208,0.4)
+    }
+
+    #page-header {
+	border-bottom: 1px solid #dbdbdb;
+	margin-bottom: 20px;
+    }
+    #page-header h2 {
+	font-size: 32px;
+    }
+
+    pre {
+	overflow-x: auto;
+    }
+    pre code {
+	display: block;
+	padding: 0.5em;
+	overflow-wrap: normal;
+	white-space: pre;
+    }
+
+    code {
+	color: #041c32;
+    }
+
+    pre, code, .hljs {
+	background-color: #f7f9fd;
+    }
+
+    td, th {
+	border: 1px solid #9ba0b3;
+	padding: 8px;
+    }
+
+    tr:nth-child(even){background-color: #16171d;}
+
+    tr:hover {background-color: #9ba0b3;}
+
+    th {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: #16171d;
+	color: #f4f1d0;
+    }
+
+    a {
+	color: #9ba0b3
+    }
+    a:hover {
+	color: #f4f1d0
+    }
+}
