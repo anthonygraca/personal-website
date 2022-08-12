@@ -15,4 +15,4 @@
 
 ![candid photo](/img/candid-portrait.jpg)
 
-Feel free to contact me via email: anthonygraca [at] protonmail.como
+Feel free to contact me via email: anthonygraca [at] protonmail.com

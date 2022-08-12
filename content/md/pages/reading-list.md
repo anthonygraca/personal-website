@@ -40,9 +40,9 @@
 | Neural Networks and Deep Learning                      | Nielsen, Michael                  | ![0%](https://progress-bar.dev/0) |        |
 
 ## Artificial Intelligence
-| Title                                      | Author                           | Progress                                       | Review |
-|--------------------------------------------|----------------------------------|------------------------------------------------|--------|
-| Artificial Intelligence: A Modern Approach | Russel, Stuart, and Peter Norvig | ![0%](https://progress-bar.dev/0)              |        |
+| Title                                      | Author                           | Progress                          | Review |
+|--------------------------------------------|----------------------------------|-----------------------------------|--------|
+| Artificial Intelligence: A Modern Approach | Russel, Stuart, and Peter Norvig | ![0%](https://progress-bar.dev/0) |        |
 | PAIP                                       | Norvig, Peter                    | ![0%](https://progress-bar.dev/0) |        |
 
 ## LISP
