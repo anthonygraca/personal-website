@@ -127,7 +127,7 @@ pre code {
 }
 
 code {
-    color: #428bca;
+    color: #3f72af;
 }
 
 pre, code, .hljs {
@@ -336,5 +336,9 @@ th {
     }
     a:hover {
 	color: #f4f1d0
+    }
+
+    .navbar-default .navbar-toggle .icon-bar {
+	background-color: #f4f1d0;
     }
 }
