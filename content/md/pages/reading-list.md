@@ -13,12 +13,14 @@
 | xUnit Test Patterns                                             | Meszaros, Gerard       | ![0%](https://progress-bar.dev/0)   |        |
 
 ## Programming
-| Title                     | Author                | Progress                            | Review |
-|---------------------------|-----------------------|-------------------------------------|--------|
-| Algorithms                | Sedgewick             | ![90%](https://progress-bar.dev/90) |        |
-| CLRS                      | Cormen, Thomas et al. | ![10%](https://progress-bar.dev/10) |        |
-| C++ Concurrency in Action | Williams, Anthony     | ![15%](https://progress-bar.dev/15) |        |
-| Effective C++             | Meyers, Scott         | ![0%](https://progress-bar.dev/0)   |        |
+| Title                                                    | Author                         | Progress                            | Review |
+|----------------------------------------------------------|--------------------------------|-------------------------------------|--------|
+| Algorithms                                               | Sedgewick                      | ![90%](https://progress-bar.dev/90) |        |
+| CLRS                                                     | Cormen, Thomas et al.          | ![10%](https://progress-bar.dev/10) |        |
+| C++ Concurrency in Action                                | Williams, Anthony              | ![15%](https://progress-bar.dev/15) |        |
+| Effective C++                                            | Meyers, Scott                  | ![0%](https://progress-bar.dev/0)   |        |
+| Concepts, Techniques, and Models of Computer Programming | Van Roy, Peter and Seif Haridi | ![0%](https://progress-bar.dev/0)   |        |
+|                                                          |                                |                                     |        |
 
 
 ## System Design
