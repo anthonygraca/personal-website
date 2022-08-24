@@ -5,7 +5,7 @@
 ## Software Engineering
 | Title                                                           | Author                 | Progress                            | Review |
 |-----------------------------------------------------------------|------------------------|-------------------------------------|--------|
-| Working Effectively with Legacy Code                            | Feathers, Michael      | ![20%](https://progress-bar.dev/20) |        |
+| Working Effectively with Legacy Code                            | Feathers, Michael      | ![70%](https://progress-bar.dev/70) |        |
 | Design Patterns                                                 | GoF                    | ![0%](https://progress-bar.dev/0)   |        |
 | Agile Software Development: Principles, Patterns, and Practices | Martin, Robert         | ![30%](https://progress-bar.dev/30) |        |
 | Continuous Integration                                          | Duval, Paul            | ![0%](https://progress-bar.dev/0)   |        |
@@ -22,7 +22,6 @@
 | Concepts, Techniques, and Models of Computer Programming | Van Roy, Peter and Seif Haridi | ![0%](https://progress-bar.dev/0)   |        |
 |                                                          |                                |                                     |        |
 
-
 ## System Design
 | Title                                | Author            | Progress                          | Review |
 |--------------------------------------|-------------------|-----------------------------------|--------|
@@ -32,26 +31,24 @@
 ## Machine Learning
 | Title                                                  | Author                            | Progress                          | Review |
 |--------------------------------------------------------|-----------------------------------|-----------------------------------|--------|
-| Machine learning: A Probabilistic Perspective          | Murphy, Kevin                     | ![0%](https://progress-bar.dev/0) |        |
-| The Elements of Statistical Learning                   | Friedman, Jerome, et al.          | ![0%](https://progress-bar.dev/0) |        |
+| An Introduction to Statistical Learning                | James, Gareth, et al.             | ![0%](https://progress-bar.dev/0) |        |
+| The Elements of Statistical Learning                   | Hastie, Trevor, et al.            | ![0%](https://progress-bar.dev/0) |        |
+| Artificial Intelligence: A Modern Approach             | Russel, Stuart, and Peter Norvig  | ![0%](https://progress-bar.dev/0) |        |
+| PAIP                                                   | Norvig, Peter                     | ![0%](https://progress-bar.dev/0) |        |
 | Pattern Recognition and Machine Learning               | Bishop, Christopher               | ![0%](https://progress-bar.dev/0) |        |
+| Machine learning: A Probabilistic Perspective          | Murphy, Kevin                     | ![0%](https://progress-bar.dev/0) |        |
 | Deep Learning                                          | Goodfellow, Ian, et al.           | ![0%](https://progress-bar.dev/0) |        |
 | The Nature of Statistical Learning Theory              | Vladimir Vapnik                   | ![0%](https://progress-bar.dev/0) |        |
 | Information Theory, Inference, and Learning Algorithms | Mackay, David                     | ![0%](https://progress-bar.dev/0) |        |
 | Reinforcement Learning                                 | Barto, Andrew, and Richard Sutton | ![0%](https://progress-bar.dev/0) |        |
 | Neural Networks and Deep Learning                      | Nielsen, Michael                  | ![0%](https://progress-bar.dev/0) |        |
 
-## Artificial Intelligence
-| Title                                      | Author                           | Progress                          | Review |
-|--------------------------------------------|----------------------------------|-----------------------------------|--------|
-| Artificial Intelligence: A Modern Approach | Russel, Stuart, and Peter Norvig | ![0%](https://progress-bar.dev/0) |        |
-| PAIP                                       | Norvig, Peter                    | ![0%](https://progress-bar.dev/0) |        |
-
-## LISP
-| Title | Author                                  | Progress                          | Review |
-|-------|-----------------------------------------|-----------------------------------|--------|
-| SICP  | Abelson, Harold, and Gerald Jay Sussman | ![5%](https://progress-bar.dev/5) |        |
-| HtDP  | Felleisen, Matthias, et al.             | ![0%](https://progress-bar.dev/0) |        |
+## Imperative
+| Title                             | Author                                  | Progress                          | Review |
+|-----------------------------------|-----------------------------------------|-----------------------------------|--------|
+| SICP                              | Abelson, Harold, and Gerald Jay Sussman | ![5%](https://progress-bar.dev/5) |        |
+| Purely Functional Data Structures | Okasaki, Chris                          | ![0%](https://progress-bar.dev/0) |        |
+| HtDP                              | Felleisen, Matthias, et al.             | ![0%](https://progress-bar.dev/0) |        |
 
 ## Human Centered Design
 | Title                     | Author               | Progress                            | Review |
