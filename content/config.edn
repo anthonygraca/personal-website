@@ -1,6 +1,6 @@
 {:site-title                   "Anthony Graca"
  :author                       "Anthony Graca"
- :description                  "Personal Blog for Rants"
+ :description                  "Anthony Graca's Personal Blog"
  :site-url                     "https://anthonygraca.io"
  :post-root                    "posts"
  :page-root                    "pages"
