@@ -6,12 +6,19 @@
 | Title                                                           | Author                        | Progress                              | Review                                                                                           |
 |-----------------------------------------------------------------|-------------------------------|---------------------------------------|--------------------------------------------------------------------------------------------------|
 | Working Effectively with Legacy Code                            | Feathers, Michael             | ![70%](https://progress-bar.dev/70)   |                                                                                                  |
+| Large Scale C++                                                 | Lakos, John             | ![0%](https://progress-bar.dev/0)   |                                                                                                  |
 | Design Patterns                                                 | GoF                           | ![0%](https://progress-bar.dev/0)     |                                                                                                  |
 | Agile Software Development: Principles, Patterns, and Practices | Martin, Robert                | ![30%](https://progress-bar.dev/30)   |                                                                                                  |
 | Continuous Integration                                          | Duval, Paul                   | ![100%](https://progress-bar.dev/100) | [link](https://anthonygraca.io/blog/posts-output/2022-08-28-book-review-continuous-integration/) |
 | Continuous Delivery                                             | Humble, Jez, and David Farley | ![5%](https://progress-bar.dev/5)     |                                                                                                  |
 | Software Engineering at Google                                  | Winters, Titus, et al.        | ![10%](https://progress-bar.dev/10)   |                                                                                                  |
 | xUnit Test Patterns                                             | Meszaros, Gerard              | ![0%](https://progress-bar.dev/0)     |                                                                                                  |
+
+## Program Management
+| Title                                               | Author                   | Progress                              | Review |
+|-----------------------------------------------------|--------------------------|---------------------------------------|--------|
+| The Mythical Man-Month                              | Brooks Jr., Frederick    | ![100%](https://progress-bar.dev/100) |        |
+| Accelerate: The Science of Lean Software and DevOps | Forsgren, Nicole, et al. | ![100%](https://progress-bar.dev/100) |        |
 
 ## Programming
 | Title                                                    | Author                         | Progress                            | Review |
@@ -52,8 +59,11 @@
 | HtDP                              | Felleisen, Matthias, et al.             | ![0%](https://progress-bar.dev/0) |        |
 
 ## Human Centered Design
-| Title                     | Author               | Progress                            | Review |
-|---------------------------|----------------------|-------------------------------------|--------|
-| Design of Everyday Things | Norman, Don          | ![15%](https://progress-bar.dev/15) |        |
-| Don't Make Me Think       | Krug, Steve          | ![0%](https://progress-bar.dev/0)   |        |
-| About Face                | Cooper, Alan, et al. | ![0%](https://progress-bar.dev/0)   |        |
+| Title                                                | Author                      | Progress                            | Review |
+|------------------------------------------------------|-----------------------------|-------------------------------------|--------|
+| Design of Everyday Things                            | Norman, Don                 | ![15%](https://progress-bar.dev/15) |        |
+| Don't Make Me Think                                  | Krug, Steve                 | ![0%](https://progress-bar.dev/0)   |        |
+| About Face                                           | Cooper, Alan, et al.        | ![0%](https://progress-bar.dev/0)   |        |
+| 100 Things Every Designer Needs to Know About People | Weinschenk, Susan           | ![0%](https://progress-bar.dev/0)   |        |
+| Get Into UX                                          | Alechnavicius, Vy           | ![0%](https://progress-bar.dev/0)   |        |
+| Mismatch: How Inclusion Shapes Design                | Holmes, Kat, and John Maeda | ![0%](https://progress-bar.dev/0)   |        |
