@@ -3,16 +3,17 @@
  :page-index 1}
 
 ## Software Engineering
-| Title                                                           | Author                        | Progress                              | Review                                                                                           |
-|-----------------------------------------------------------------|-------------------------------|---------------------------------------|--------------------------------------------------------------------------------------------------|
-| Working Effectively with Legacy Code                            | Feathers, Michael             | ![70%](https://progress-bar.dev/70)   |                                                                                                  |
-| Large Scale C++                                                 | Lakos, John             | ![0%](https://progress-bar.dev/0)   |                                                                                                  |
-| Design Patterns                                                 | GoF                           | ![0%](https://progress-bar.dev/0)     |                                                                                                  |
-| Agile Software Development: Principles, Patterns, and Practices | Martin, Robert                | ![30%](https://progress-bar.dev/30)   |                                                                                                  |
-| Continuous Integration                                          | Duval, Paul                   | ![100%](https://progress-bar.dev/100) | [link](https://anthonygraca.io/blog/posts-output/2022-08-28-book-review-continuous-integration/) |
-| Continuous Delivery                                             | Humble, Jez, and David Farley | ![5%](https://progress-bar.dev/5)     |                                                                                                  |
-| Software Engineering at Google                                  | Winters, Titus, et al.        | ![10%](https://progress-bar.dev/10)   |                                                                                                  |
-| xUnit Test Patterns                                             | Meszaros, Gerard              | ![0%](https://progress-bar.dev/0)     |                                                                                                  |
+| Title                                                              | Author                        | Progress                              | Review                                                                                           |
+|--------------------------------------------------------------------|-------------------------------|---------------------------------------|--------------------------------------------------------------------------------------------------|
+| Working Effectively with Legacy Code                               | Feathers, Michael             | ![70%](https://progress-bar.dev/70)   |                                                                                                  |
+| Large Scale C++                                                    | Lakos, John                   | ![0%](https://progress-bar.dev/0)     |                                                                                                  |
+| Design Patterns                                                    | GoF                           | ![0%](https://progress-bar.dev/0)     |                                                                                                  |
+| Agile Software Development: Principles, Patterns, and Practices    | Martin, Robert                | ![30%](https://progress-bar.dev/30)   |                                                                                                  |
+| Continuous Integration                                             | Duval, Paul                   | ![100%](https://progress-bar.dev/100) | [link](https://anthonygraca.io/blog/posts-output/2022-08-28-book-review-continuous-integration/) |
+| Continuous Delivery                                                | Humble, Jez, and David Farley | ![5%](https://progress-bar.dev/5)     |                                                                                                  |
+| Software Engineering at Google                                     | Winters, Titus, et al.        | ![10%](https://progress-bar.dev/10)   |                                                                                                  |
+| xUnit Test Patterns                                                | Meszaros, Gerard              | ![0%](https://progress-bar.dev/0)     |                                                                                                  |
+| Domain-Driven Design: Tackling Complexity in the Heart of Software | Evans, Eric                   | ![0%](https://progress-bar.dev/0)     |                                                                                                  |
 
 ## Program Management
 | Title                                               | Author                   | Progress                              | Review |
